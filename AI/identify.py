@@ -19,6 +19,7 @@ def is_finger_up(hand_landmarks, finger_tip, finger_pip, finger_mcp, wrist=None,
     """
     Kiểm tra xem ngón tay có giơ lên hay không
     - Đối với ngón cái: so sánh với cổ tay
+    
     - Đối với các ngón khác: so sánh với khớp MCP
     """
     if is_thumb:
