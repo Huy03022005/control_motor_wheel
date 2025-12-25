@@ -20,19 +20,19 @@ Remove-Item -Path "E:\influxdb\influxdb2-2.7.5-windows-amd64" -Recurse
 # cách chạy
 ## Bây giờ, bạn mở trình duyệt (Chrome/Edge) và làm theo các bước sau:
 
-## Truy cập: http://localhost:8086
+### Truy cập: http://localhost:8086
 
-## Nhấn Get Started.
+### Nhấn Get Started.
 
-## Thiết lập các thông số (Hãy ghi chép lại để dán vào Python):
+### Thiết lập các thông số (Hãy ghi chép lại để dán vào Python):
 
-## Username: admin (hoặc tên bạn muốn).
+ Username: admin (hoặc tên bạn muốn).
 
-## Password: admin12345 (phải có ít nhất 8 ký tự).
+ Password: admin12345 (phải có ít nhất 8 ký tự).
 
-## Initial Organization Name: my_org
+ Initial Organization Name: my_org
 
-## Initial Bucket Name: wheel_data
+ Initial Bucket Name: wheel_data
 
 ## Sau khi nhấn Continue, hệ thống sẽ cung cấp cho bạn một mã Operator Token. Hãy nhấn Copy to Clipboard.
 
